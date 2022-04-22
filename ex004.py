@@ -6,3 +6,5 @@ if x == y:
     print('Os valores {} e {} são iguais!!! :D'.format(x,y))
 else:
     print('Os valores {} e {} são diferentes!!! :/'.format(x,y))
+
+sair = input('\nDigite ENTER para sair...')

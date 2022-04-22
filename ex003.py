@@ -9,3 +9,5 @@ while distance < 0:
     distance = distance*-1
 
 print('A distância entre os dois é de {}'.format(distance))
+
+sair = input('\nDigite ENTER para sair...')

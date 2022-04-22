@@ -10,3 +10,5 @@ elif y >= x and y >= z:
     print('O maior valor é {}'.format(y))
 else:
     print('O maior valor é {}'.format(z))
+
+sair = input('\nDigite ENTER para sair...')
