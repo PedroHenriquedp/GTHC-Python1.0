@@ -9,3 +9,4 @@ if letra.lower() == 'a' or letra.lower() == 'i' or letra.lower() == 'u' or letra
     print('A letra {}, é uma vogal'.format(letra))
 else:
     print('A letra {}, é uma consoante'.format(letra))
+sair = input('\nDigite ENTER para sair...')
