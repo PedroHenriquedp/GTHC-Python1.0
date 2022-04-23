@@ -1,2 +1,2 @@
-# GTHC-Python1.0
+# GTHC-PythonExercicios
 Minhas homeworks da entidade Green Team Hacker Club
